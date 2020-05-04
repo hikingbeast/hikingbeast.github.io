@@ -3,6 +3,7 @@ layout: default
 title:  "Mountain Guide Romania - read before you hire"
 date:   2020-05-04 15:27:57 +0300
 categories: guides
+permalink: /mountain-guide-romania
 ---
 
 # Mountain Guide Romania - read before you hire
