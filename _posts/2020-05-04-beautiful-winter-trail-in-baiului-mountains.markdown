@@ -18,18 +18,37 @@ There are no sources of water on the trail.
 
 ## Quick info about Azuga to Urechea Peak trail
 
-Starting point: **Azuga (900m), on 35 DN1**  
-Destination: **Urechea Peak (1705)**  
-Seasonality: **all year in good weather**  
-Duration: **~3 h one way**  
-Length: **6 km one way**  
-Markings: **blue triangle**  
-Difficulty: **easy to moderate**  
-Equipment during winter: **buff, gloves, sunglasses, winter boots, midlayer, shell layer**  
-Closest accommodation unit to the start of the trail: **guest houses and hotels in Azuga**  
-Closest town to the start of the trail: **Azuga**  
-Distance from Bucharest: **140 km (2-3h) by car**  
-Parking: **free parking near Gara Azuga train station**
+> **Starting point:** Azuga (900 m altitude), on 35 DN1 
+>
+> **Destination:** Urechea Peak (1705 m altitude)
+
+
+
+|         |           |
+|:-------------|:------------------|
+| **Seasonality**  | all year in good weather  |
+| **Duration** | ~3 h one way    |
+| **Length**           | 6 km one way    |
+| **Difficulty**           | easy to moderate |
+| **Markings**           | blue triangle |
+
+
+<dl>
+<dt>Equipment during winter</dt>
+<dd>buff, gloves, sunglasses, winter boots, midlayer, shell layer</dd>
+<dt>Closest accommodation unit to the start of the trail</dt>
+<dd>guest houses and hotels in Azuga</dd>
+<dt>Closest town to the start of the trail</dt>
+<dd>Azuga</dd>
+<dt>Distance from Bucharest</dt>
+<dd>140 km (2-3h) by car</dd>  
+<dt>Parking</dt>
+<dd>free parking near Gara Azuga train station</dd>
+</dl>
+
+
+ 
+
 
 ## Azuga to Urechea Peak trail description
 

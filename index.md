@@ -4,6 +4,3 @@
 
 layout: default
 ---
-
-![Acele Morarului, Bucegi Mountains](/baiului-winter-hike)
-

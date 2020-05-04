@@ -26,6 +26,7 @@ github_username:  hikingbeast
 markdown: kramdown
 theme: jekyll-theme-cayman
 #theme: minima
+#theme: jekyll-theme-slate
 plugins:
   - jekyll-feed
 
