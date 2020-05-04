@@ -66,7 +66,7 @@ At first, you will walk through the forest. It is a pleasant ascend between the 
 
 #### Exiting the forest
 
-![View over Bucegi Mountains from Baiului Mountains](images/IMG_20180210_112500-e1541801616364.jpg)
+![View over Bucegi Mountains from Baiului Mountains](images/baiului/IMG_20180210_112500-e1541801616364.jpg)
 
 View over Bucegi Mountains from Baiului Mountains
 
@@ -74,7 +74,7 @@ In about 2 hours, you will exit the forest and you will have some beautiful pano
 
 #### **Sorica cable car**
 
-![Skiers near Sorica cable car terminal](images/IMG_20180210_114639-e1541801654301.jpg)
+![Skiers near Sorica cable car terminal](images/baiului/IMG_20180210_114639-e1541801654301.jpg)
 
 Skiers near Sorica cable car terminal
 
@@ -82,7 +82,7 @@ From here, continue your ascent towards Azuga cable car station. After a 15 minu
 
 #### **Urechea Peak** (1715 m)
 
-![View from Urechea Peak (1705 m)](images/IMG_20180210_123300-e1541801676961.jpg)
+![View from Urechea Peak (1705 m)](images/baiului/IMG_20180210_123300-e1541801676961.jpg)
 
 View from Urechea Peak (1705 m)
 
@@ -94,7 +94,7 @@ The easiest way back to Azuga is to descend the same way you climbed.
 
 #### **Continuing from Urechea Peak**
 
-![Ascending towards Cazacu Peak (1753 m)](images/IMG_20180210_141741-e1541801691378.jpg)
+![Ascending towards Cazacu Peak (1753 m)](images/baiului/IMG_20180210_141741-e1541801691378.jpg)
 
 Ascending towards Cazacu Peak (1753 m)
 
@@ -110,50 +110,50 @@ _Be aware that during summer there are several sheepfolds on Baiului mountains. 
 
 ## Photo Gallery
 
-![Trees covered in hoar frost](images/IMG_20180210_1050152-1024x768.jpg)
+![Trees covered in hoar frost](images/baiului/IMG_20180210_1050152-1024x768.jpg)
 
 Trees covered in hoar frost
 
-![View from Baiului ridge](images/IMG_20180210_112929-e1541801710426.jpg)
+![View from Baiului ridge](images/baiului/IMG_20180210_112929-e1541801710426.jpg)
 
 View from Baiului ridge
 
-![View from Baiului ridge](images/IMG_20180210_113223-e1541801729554.jpg)
+![View from Baiului ridge](images/baiului/IMG_20180210_113223-e1541801729554.jpg)
 
 View from Baiului ridge
 
-![View from Baiului ridge](images/IMG_20180210_122803-e1541801747961.jpg)
+![View from Baiului ridge](images/baiului/IMG_20180210_122803-e1541801747961.jpg)
 
 View from Baiului ridge
 
-![View from Baiului ridge](images/IMG_20180210_123013-e1541801767740.jpg)
+![View from Baiului ridge](images/baiului/IMG_20180210_123013-e1541801767740.jpg)
 
 View from Baiului ridge
 
-![View from Baiului ridge](images/IMG_20180210_123202-e1541801784942.jpg)
+![View from Baiului ridge](images/baiului/IMG_20180210_123202-e1541801784942.jpg)
 
 View from Baiului ridge
 
-![View from Baiului ridge](images/IMG_20180210_123919-e1541801799829.jpg)
+![View from Baiului ridge](images/baiului/IMG_20180210_123919-e1541801799829.jpg)
 
 View from Baiului ridge
 
-![View from Baiului ridge](images/IMG_20180210_125752-e1541801814216.jpg)
+![View from Baiului ridge](images/baiului/IMG_20180210_125752-e1541801814216.jpg)
 
 View from Baiului ridge
 
-![View from Baiului ridge](images/IMG_20180210_130321-e1541801831547.jpg)
+![View from Baiului ridge](images/baiului/IMG_20180210_130321-e1541801831547.jpg)
 
 Cazacu Peak (1753 m)
 
-![View from Baiului ridge](images/IMG_20180210_141619-e1541801850817.jpg)
+![View from Baiului ridge](images/baiului/IMG_20180210_141619-e1541801850817.jpg)
 
 View from Baiului ridge
 
-![Descending towards Busteni](images/IMG_20180210_142758-e1541801870334.jpg)
+![Descending towards Busteni](images/baiului/IMG_20180210_142758-e1541801870334.jpg)
 
 Descending towards Busteni
 
-![Bucegi Mountains](images/IMG_20180210_163556-e1541801886446-1024x768.jpg)
+![Bucegi Mountains](images/baiului/IMG_20180210_163556-e1541801886446-1024x768.jpg)
 
 Bucegi Mountains
