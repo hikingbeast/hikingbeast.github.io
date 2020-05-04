@@ -1,10 +1,11 @@
 ---
-layout: default
+layout: post
 title:  "Mountain Guide Romania - read before you hire"
 date:   2020-05-04 15:27:57 +0300
 categories: guides
 ---
 ![Image of Yaktocat](https://hikingbeast.com/wp-content/uploads/2020/05/mountain-guide-romania-climbing-acele-morarului-bucegi-1200x900.jpg)
+
 
 The Romanian Carpathians are wild. They cover a third of the country’s surface area and are home to numerous wild animals like the brown bear, the wild boar, the chamois and the lynx, to name a few.
 
