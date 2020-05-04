@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: "Beautiful winter trail in Baiului Mountains"
 date: "2018-11-09"
 categories: guides
