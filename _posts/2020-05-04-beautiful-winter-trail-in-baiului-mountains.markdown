@@ -5,6 +5,7 @@ date: "2018-11-09"
 categories: guides
 permalink: /baiului-winter-hike
 ---
+![View over Bucegi Mountains from Baiului Mountains](images/IMG_20180210_112500-e1541801616364.jpg)
 
 Ascend from **Azuga** to **Urechea Peak** (1705 m)  on this 3 hours long moderate hiking trail and you will be rewarded with beautiful views over the **Bucegi Mountains**.
 
